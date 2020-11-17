@@ -1,2 +1,2 @@
 # Directory Test
-[test](https://github.com/prodigy413/prodigy413.github.io/edit/main/test/index.md)
+[test](https://github.com/prodigy413/prodigy413.github.io/blob/main/test/index.md)
